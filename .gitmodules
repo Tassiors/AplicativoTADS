@@ -1,0 +1,3 @@
+[submodule "Estagio"]
+	path = Estagio
+	url = ../Estagio.git
